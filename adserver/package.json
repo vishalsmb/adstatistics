@@ -1,0 +1,19 @@
+{
+  "name": "adserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cookies": "^0.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "set-cookie": "0.0.4"
+  }
+}
