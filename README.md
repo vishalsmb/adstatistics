@@ -1,0 +1,1 @@
+This is a simple application that helps the users to get real time logs of their advertisements that is posted on the internet through advertisement agencies so that they could focus more on audience targeting.
